@@ -1,0 +1,122 @@
+**THICC THICKET**
+-Tone down difficulty by just a *tad*, mostly by reducing amount of pitfalls
+-Add an actual ending to the level
+-Make bombs fall properly in Fast graphics
+-Something is setting the player's Z coordinate to 0. Fix that.
+
+**ACORN PASS**
+-Make the level lol.
+
+**MISC.**
+-Make more levels
+-Fix shit
+-Repair prefabs
+-Fix player ramp movements (FIXED FOR NOW: In real life when you run off of a straight piece of ground onto a downsloping ramp, 9/10 times you *don't* automatically snap to the ground)
+
+**PLANNED LEVEL LIST**
+UNIVERSAL GENERIC ENEMIES:
+- Wolf (sleeping or crawling): Wolves that, while they can walk on their hind legs, prefer to crawl. Cannon fodder.
+- Owl: Basically wolves, but they fly.
+WORLD 1; THE LOST FOREST
+	GENERIC ENEMIES:
+	- Thorns: They hurt.
+	1-1 - THICC THICKET (yes we're calling it that): An introduction to the game, Sherwood begins at the bottom of a pocket of brush, making his way up and down the forest trees.
+		ENEMIES: All generic enemies
+		- Pilot Owl: These owls fly a designated course, dropping bombs along the way that explode on contact and deal damage.
+	1-2 - ACORN PASS: Sherwood climbs through the trunks of massive oaks.
+		ENEMIES: All generic enemies besides wolves
+		- Brown Squirells: They sit atop their nest and throw acorns at Sherwood, which he can jump on for extra height.
+		- Red Squirells: Same as brown squirells, but their acorns are covered in thorns and cannot be jumped on.
+	1-3 - CLIFFSIDE LAGOON: Sherwood passes through a calm river and climbs a waterfall.
+		ENEMIES: No generics
+	1-4 - BOULDER RACE: Sherwood navigates across a cliffside canyon while being pursued by a giant boulder.
+		ENEMIES: All but thorns
+		- Grey wolves: Elite-ranking wolves with razor sharp manes that prevent them from being jumped on.
+	1-5 - DEEP CAVERN: A dark underground passageway full of blockades.
+		ENEMIES: All generic enemies
+		- Stone Wolves: Arcane wolves that cannot be defeated directly. When jumped on, they recoil into a defensive position, allowing Sherwood to knock them into various obstacles and enemies.
+		- Armored Owls: Normal owls suited with tough armor that cannot take direct damage, but can be killed through other methods. They may be jumped on infinitely for extra height.
+	1-A (Unlocked from Deep Cavern) - ROUGH TIDES: Sherwood crosses a raging river at the height of a storm, the height of the river constantly fluctuating and providing a challenge.
+		ENEMIES: None
+	1-BOSS - ROCKY: Sherwood confronts the Great White.
+		ENEMIES: No generics
+		Stone Wolves: Arcane wolves that cannot be defeated directly. When jumped on, they recoil into a defensive position, allowing Sherwood to knock them into various obstacles and enemies. Summoned by the Great White.
+		Great White: This muscular wolf captain has two forms. First, he utilizes the power of his Green (insert bird name here) to transform into a collosal wolf of stone, jumping about the playing field and sending waves of energy at Sherwood. After some time, GW will attempt to crush Sherwood by leaping atop him, and upon missing will struggle to rise again, allowing Sherwood to jump on his back and break his stone armor. Once his stone wolf is destroyed, GW howls and summons two or three Stone Wolves, which can be thrown back at him to deal damage. This sequence repeats until GW has been his six times, at which he is defeated.
+WORLD 2; COASTAL COMPLEX:
+	GENERIC ENEMIES:
+	- Jumping Fish: Fish that jump out of the water in various patterns and can be jumped on for extra height.
+	- Spiky Fish: Similar to Jumping Fish, but are covered in spikes and cannot be jumped on.
+	- Flopping Fish: A fish that tried to touch the sky, but ended up on land.
+NEED MORE TIME TO THINK ABOUT THIS ONE; WILL COME BACK LATER
+WORLD 3; DUSTY PEAKS:
+	GENERIC ENEMIES:
+	- Armadillo: Cannot be jumped on due to their tough shell, but can be attacked directly. Fodder.
+	- Hog: A feisty swine that charges at Sherwood at very high speeds and cannot be attacked through its tusks.
+	- Ape: The ape hangs from various walls and ceilings, throwing stompable rocks at Sherwood.
+	- Ape Jockey: An Ape piloting a Hog, it's sheer height providing quite the obstacle.
+	3-1 - DRY CANYON: Sherwood climbs the sun-dried canyon.
+		ENEMIES: All generics
+		- Vultures: Agile Birds that attempt to fly down Sherwood for some distance.
+	3-2 - CANYON OF THE APES: Sherwood makes his flight across the desert canyon.
+		ENEMIES: No universal generics, hogs, armadillos, or ape jockeys.
+		- The apes are dicks.
+	3-3 - SMOKY CLIMB: Thick smog blots out Sherwood's eyesight as he climbs up the base of the volcano.
+		ENEMIES: All generics
+	3-4 - MAGMA FALLS: Inside the volcano, mostly every surface Sherwood tries to step on begins to sink into the magma pool.
+		ENEMIES: All generics
+		- Fire Apes: Arcane primapes that throw flaming stones at Sherwood.
+	3-5 - ERUPTION DISRUPTION: Sherwood arives near the top of the volcano, outside, where it has erupted. He must now navigate to the top while avoiding the rainstorm of flaming rocks.
+		ENEMIES: All generics
+		- Fire Apes: Arcane primapes that throw flaming stones at Sherwood.
+	3-BOSS - URSA OVERDRIVE: Sherwood confronts Major Ursa.
+		ENEMIES: No generics
+		- Major Ursa: This monstrous bear dons a destructive flamethrower powered by the Red Cardinal. He cannot be attacked directly, and his sheer size mostly protects him from being stomped on by Sherwood. He begins by launching streams of fire at either high or low heights, forcing Sherwood to either jump or duck to avoid them. After this, MU begins to launch bouncing fireballs at Sherwood must carefully dance around. After some time, MU's flamethrower runs low on power, and the fireballs turn into barely-warm rocks, allowing Sherwood to jump on them and then on MU to deal damage. After being struck, MU runs to the other side of the arena, shoots some balls of fire into the air, and then later launches a colossal bomb that destroyes the platform of the arena. On this event's first occurrence, MU and Sherwood are dropped deeper into the Volcano, and now the bouncing fireballs leave a temporary trail of fire on the floor that damages Sherwood. In the final phase, after destroying the floor once more, MU and Sherwood fall into the core of the Volcano, where the floor breaks up into separate platforms upon hitting the magma pool. After being stomped on one final time, MU is finally defeated, and Sherwood rescues the Red Cardinal.
+WORLD 4; BOSHI CITY:
+	GENERIC ENEMIES:
+	- Spotlights: Security lights that are either projected onto the ground or onto a wall. If one spots Sherwood, it will follow him for a few seconds before detonating a blast that kills him instantly unless he escapes to cover.
+	- Frogs: These creatures will hop towards Sherwood.
+	- Chameleon: These lizards will blend in with their environment, only to reveal themselves before flinging their tounge at Sherwood.
+	- Toad: Large amphibians armed with energy blasters, only defeatable by being jumped on.
+	4-1 - TOXIC ALLEY: The lowest sector of Boshi City, a series of dark alleyways full of rats, frogs, and void of any light.
+		ENEMIES: All generics besides chameleons and spotlights
+		- Rats: Rodents that appear and disappear in and out of storm drains, moving in one direction as a dense pack.
+		- Big Rats: Gigantic rodents that stand in Sherwood's path, attempting to bite at him. Sherwood must attack it until it is pushed into a gap in the pavement without being caught by its fangs.
+		- Drainage Pipes: Large tubes that drop toxic waste from the facilities above.
+	4-2 - SPOTLIT AVENUE: Sherwood navigates through a dimly lit street.
+		ENEMIES: All generics
+		- Rats: Rodents that appear and disappear in and out of storm drains, moving in one direction as a dense pack.
+		- Convoy Frogs: Elite-Ranking frogs that pilot convoys and populate the streets, shooting at Sherwood as they drive by and running him down if he gets in their way.
+	4-3 - THE HEIST: Sherwood sneaks through a Amphibian stronghold.
+		ENEMIES: All generics
+		- Red Owl Statuettes: Upon gaining a direct line of sight to Sherwood, they will fire a deadly red beam that follows him quickly.
+	4-4 - AMPHIBIOUS ASCENT: Sherwood makes his way up the canyon of skyscrapers, traveling along the walls.
+		ENEMIES: All generics
+		- Flying Toads: Like toads, but with little propellors huehuehuea
+	4-5 - ROOFTOP ASSAULT: Sherwood hops across the valley of building rooftops.
+		ENEMIES: All generics
+		- Helicopters: Instead of shit hitting the fan, the fan throws shit at you.
+	4-A (Unlocked from The Heist) - METRO RALLY: Sherwood races Ren the -r-a-v-e-n- EAGLE in a flight through the underground subway system.
+		ENEMIES: None
+		- Ren: Upon being beaten, Ren awards a final bird.
+	4-BOSS - BLINDING ACROBATICS: Sherwood confronts Lizzit
+		ENEMIES: No generics
+		- Lizzit: An agile horned dragon armed with explosives and shurikens. The fight begins as Lizzit torches the platform below, forcing Sherwood to advance to the poles. In each phase of the fight, Lizzit throws several shurikens in varying patterns from the corner of the arena, striking Sherwood if he gets too close. Eventually, Lizzit switches her strategy and fastens her long tongue to a pole while swinging around and attacking Sherwood with her spines. At this point, attacking her tounge will deal damage, cause lizzit to move on to the next stage of the fight, and force Sherwood to chase her down. At the next stage, there are only two platforms off to the sides of the arena, and at the third and final stage there are no platforms and Sherwood must rely entirely on the poles. Once Lizzit has taken three hits, she will be defeated and Sherwood will rescue the Purple Condour.
+WORLD 5; JACQUES POWER INC.
+	GENERIC ENEMIES:
+	Universal generics, but replaced with robotic counterparts (for aesthetics only)
+	- Hornet Droid: A fast moving, fully mobile droid that flies from spot to spot, stopping to fire dense barrages of energy blasts at Sherwood.
+	- Blue Owl Statuette: When Sherwood is near, this cannon will fire an oscillating barrage of energy blasts towards Sherwood every few seconds.
+	- Beetle Droid: While extremely sluggish, this droid will explode on contact.
+	5-1 - KING'S HIGHWAY: Upon spotting Sherwood approaching the Jacque Power Inc. facilities, Dr. Jacques sends his enourmous flying robotic eagle, TALON, to hunt him down. Sherwood must fly away and escape.
+		ENEMIES: No generics besides Hornet Droids and Owls
+		- TALON: A giant ass eagle. It shoots lazers occasionally and is generally trying its best to kill you.
+		- Frog Droid: This robot, resembling a frog, will attempt to jump into your path.
+	5-2 - ENTER JACQUES: Sherwood navigates through the bustling assembly that is Jacque Power Inc.
+		ENEMIES: All generics.
+	5-3 - FREON BLUE: Sherwood makes his way through the coolant system of the power plant, hopping atop ice-coated pipes and all the like.
+		ENEMIES: All generics except for blue owl statuettes and hornet droids.
+		- Axe Knight: A tall knight wielding an axe that cannot be defeating directly. Pushing it into a pitfall will do the trick.
+		- Frost Droid: This serpent-like drone flies in circles around platforms in an attempt to damage Sherwood. They cannot be defeated.
+	5-4 - GENERATOR: A long passageway that is repeatedly barraged with a blast of energy that fills the entire hall, only avoidable by taking cover.
+		ENEMIES: All generics
+	5-5 - TOWER OF POWER: 
